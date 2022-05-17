@@ -3,11 +3,12 @@
 
 ## Usage Example
 
-Example Usage Bypasser.exe PuzzleID
+Example Usage Bypasser.exe Captcha Location
 
-Example Usage Bypasser.exe 503b1691-b98a-461a-9255-fb1e45718a66
+Bypasser.exe C:\Users\x\AppData\Local\Temp\Captcha.rttex
 
 its will return captcha answer
 
+Example Return : Captcha|Answer
 ### Credit
 Seth,Ama6nen,lvandeve
