@@ -12,3 +12,6 @@ its will return captcha answer
 Example Return : Captcha|Answer
 ### Credit
 Seth,Ama6nen,lvandeve
+
+
+ <img src="https://cdn.upload.systems/uploads/PDD1KNzx.gif" width="800" />
