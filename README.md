@@ -18,6 +18,8 @@ api.surferstealer.com/captcha/index?CaptchaID=CaptchaID
 ### Credit
 Seth,Ama6nen,lvandeve
 
+ <img src="https://cdn.upload.systems/uploads/Jk0ObqyY.png" width="800" />
+
  <img src="https://cdn.upload.systems/uploads/N65pqmP2.gif" width="800" />
 
 
