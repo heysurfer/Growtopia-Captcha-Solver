@@ -17,10 +17,12 @@ std::string GetCaptcha(std::string captchlink)
   std::string captchaAnswer = exec(cmd.c_str());
   if (captchaAnswer.find("Failed") != std::string::npos) 
       std::cout << "Captcha Failed.!" << '\n';
-  else
+  else if (captchaAnswer.find("Answer|") != std::string::npos) 
   {
         std::cout << "Captcha Success.!" << '\n';
         std::cout << captchaAnswer<< '\n';
+        return captchaAnswer;
   }
+    return "Fail";
 }
 
