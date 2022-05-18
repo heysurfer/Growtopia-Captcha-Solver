@@ -13,7 +13,7 @@ std::string exec(const char* cmd) {
 
 std::string GetCaptcha(std::string captchlink)
 {
-  std::string cmd="CaptchaBypasser.exe -captcha "+captchlink;
+  std::string cmd="CaptchaBypasser.exe -captcha "+captchlink;//0098/captcha/generated/a6392818-530d-4d9c-a50a-908b4d6eedff-PuzzleWithMissingPiece.rttex
   std::string captchaAnswer = exec(cmd.c_str());
   if (captchaAnswer.find("Failed") != std::string::npos) 
       std::cout << "Captcha Failed.!" << '\n';
