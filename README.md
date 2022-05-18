@@ -1,9 +1,19 @@
 # Growtopia-Captcha-Bypass
 
-## Example Usage (hi gt changed captcha algorithm ,i will fix it to)
-CaptchaBypasser.exe -captcha 0098/captcha/generated/a6392818-530d-4d9c-a50a-908b4d6eedff-PuzzleWithMissingPiece.rttex<br>
+## Example Usage
+You Need Parse Captcha Id Like This <br>
+0098/captcha/generated/07ed133c-ee0e-4fcb-8e76-81dda6aa5333-TrimmedPuzzlePiece.rttex -> 07ed133c-ee0e-4fcb-8e76-81dda6aa5333<br>
+you need use split for parse id
+<a href="https://stackoverflow.com/questions/14265581/parse-split-a-string-in-c-using-string-delimiter-standard-c">Split Exampple For c++</a>
+
+Example  : api.surferstealer.com/captcha/index?CaptchaID=07ed133c-ee0e-4fcb-8e76-81dda6aa5333
+
 if Answer Success Its Will Return Answer|Number<br>
 If Answer Fail Its Will Return Answer|Failed<br>
+
+### Api
+api.surferstealer.com/captcha/index?CaptchaID=CaptchaID
+
 
 ### Credit
 Seth,Ama6nen,lvandeve
