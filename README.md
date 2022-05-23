@@ -14,13 +14,9 @@ If Answer Fail Its Will Return Answer|Failed<br>
 ### Api
 api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 Solve Time 0-3 Seconds.
 
-api.surferstealer.com/captcha/index?Server=2&CaptchaID=CaptchaID Server #2 Solve Time 1-5 Seconds.
-
 ### Credit
 Seth,Ama6nen,lvandeve
 
  <img src="https://cdn.upload.systems/uploads/Jk0ObqyY.png" width="800" />
  Server #1
- <img src="https://cdn.upload.systems/uploads/ifhZ2ZnL.gif" width="650" />
- Server #2
- <img src="https://cdn.upload.systems/uploads/Va4Itllo.gif" width="650" />
+ <img src="https://cdn.upload.systems/uploads/Et2Vv2qs.gif" width="650" />
