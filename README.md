@@ -12,7 +12,7 @@ if Answer Success Its Will Return Answer|Number<br>
 If Answer Fail Its Will Return Answer|Failed<br>
 
 ### Api
-api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 Solve Time 0-3 Seconds.
+api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 Solve Time 0-7 Seconds. seconds extended ( new captcha..)
 
 ### Credit
 Seth,Ama6nen,lvandeve
