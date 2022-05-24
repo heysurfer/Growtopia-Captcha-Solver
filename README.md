@@ -13,15 +13,18 @@ If Answer Fail Its Will Return Answer|Failed<br>
 
 ### Api
 api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 <br>
-<br>
+
 ### Information
 Solve Time 0-3 Seconds.<br>
 <strong>Now Captcha Solve  99% success rate</strong><br>
 if Solve wrong contact on discord.
 
+### Price Information
+<strong>Free For Now.</strong><br>
+
 ### Credit
-Seth,Ama6nen,lvandeve
+Seth
 
  <img src="https://cdn.upload.systems/uploads/Jk0ObqyY.png" width="800" />
  Server #1
- <img src="https://cdn.upload.systems/uploads/Et2Vv2qs.gif" width="650" />
+ <img src="https://cdn.upload.systems/uploads/VRDoxnJY.gif" width="650" />
