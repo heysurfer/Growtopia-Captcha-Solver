@@ -6,7 +6,7 @@ std::string GetCaptcha(std::string captchaid)
     const auto response = request.send("GET");
 
   std::string cmd= std::string{response.body.begin(), response.body.end()}
-  std::string captchaAnswer = exec(cmd.c_str());
+  std::string captchaAnswer = cmd;
 
   if (captchaAnswer.find("Failed") != std::string::npos) 
       std::cout << "Captcha Failed.!" << '\n';
