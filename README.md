@@ -14,8 +14,9 @@ If Answer Fail Its Will Return Answer|Failed<br>
 ### Api
 api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 <br>
 
-### Change-Logs
-Added New Pattern.
+### Change-Logs 0.01
+-Added New Pattern.
+-Optimized For New Pattern
 
 ### Information
 Solve Time 0-3 Seconds.<br>
