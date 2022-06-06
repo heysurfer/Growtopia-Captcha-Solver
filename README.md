@@ -15,7 +15,7 @@ If Answer Fail Its Will Return Answer|Failed<br>
 api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 <br>
 
 ### Change-Logs 0.01
--Added New Pattern.
+-Added New Pattern. ( Edit : Disabled New Pattern , Reason Old Pattern To Exit.)
 -Optimized For New Pattern
 
 ### Information
