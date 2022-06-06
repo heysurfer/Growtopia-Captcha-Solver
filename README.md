@@ -16,7 +16,7 @@ api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 <br>
 
 ### Change-Logs 0.01
 -Added New Pattern. ( Edit : Disabled New Pattern , Reason Old Pattern To Exit.)
--Optimized For New Pattern
+<br>-Optimized For New Pattern
 
 ### Information
 Solve Time 0-3 Seconds.<br>
