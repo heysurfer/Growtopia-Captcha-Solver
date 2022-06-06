@@ -14,6 +14,9 @@ If Answer Fail Its Will Return Answer|Failed<br>
 ### Api
 api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 <br>
 
+### Change-Logs
+Added New Pattern.
+
 ### Information
 Solve Time 0-3 Seconds.<br>
 <strong>Now Captcha Solve  99% success rate</strong><br>
