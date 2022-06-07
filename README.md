@@ -15,12 +15,11 @@ If Answer Fail Its Will Return Answer|Failed<br>
 api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 <br>
 
 ### Change-Logs 0.01
--Added New Pattern. ( Edit : Disabled New Pattern , Reason Old Pattern To Exit.)
+-Added New Pattern. ( Edit : New Pattern Working with %90 success rate , old pattern work with %70 )
 <br>-Optimized For New Pattern
 
 ### Information
 Solve Time 0-3 Seconds.<br>
-<strong>Now Captcha Solve  99% success rate</strong><br>
 if Solve wrong contact on discord.
 
 ### Price Information
