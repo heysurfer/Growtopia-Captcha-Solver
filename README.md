@@ -14,9 +14,8 @@ If Answer Fail Its Will Return Answer|Failed<br>
 ### Api
 api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 <br>
 
-### Change-Logs 0.01
--Added New Pattern. ( Edit : New Pattern Working with %90 success rate , old pattern work with %70 )
-<br>-Optimized For New Pattern
+### Change-Logs 0.02
+Supports All Patterns
 
 ### Information
 Solve Time 0-3 Seconds.<br>
@@ -24,10 +23,10 @@ if Solve wrong contact on discord.
 
 ### Price Information
 <strong>Free For Now.</strong><br>
+<br>
+Example Solver For Enet Proxy
+<a href="https://github.com/heysurfer/EnetProxy/blob/main/proxy/events.cpp#L277">Events.cpp</a>
+<br>
+<br>
+<img src="https://cdn.upload.systems/uploads/Q0ByXuOP.gif"  />
 
-### Credit
-Seth
-
- <img src="https://cdn.upload.systems/uploads/Jk0ObqyY.png" width="800" />
- Server #1
- <img src="https://cdn.upload.systems/uploads/VRDoxnJY.gif" width="650" />
