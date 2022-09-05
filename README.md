@@ -12,13 +12,13 @@ if Answer Success Its Will Return Answer|Number<br>
 If Answer Fail Its Will Return Answer|Failed<br>
 
 ### Api
-api.surferstealer.com/captcha/index?CaptchaID=CaptchaID Server #1 <br>
+api.surferstealer.com/captcha/index?CaptchaID=CaptchaID<br>
 
-### Change-Logs 0.02
-Supports All Patterns
+### Change-Logs 0.03
+Fixed Bugs
 
 ### Information
-Solve Time 0-3 Seconds.<br>
+Solve Time 0-2 Seconds.<br>
 if Solve wrong contact on discord.
 
 ### Price Information
@@ -28,5 +28,5 @@ Example Solver For Enet Proxy
 <a href="https://github.com/heysurfer/EnetProxy/blob/main/proxy/events.cpp#L277">Events.cpp</a>
 <br>
 <br>
-<img src="https://cdn.upload.systems/uploads/Q0ByXuOP.gif"  />
+<img src="https://cdn.upload.systems/uploads/XjgotENX.gif"  />
 
