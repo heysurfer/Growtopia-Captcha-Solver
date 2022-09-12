@@ -18,15 +18,16 @@ If Answer Fail Its Will Return Answer|Failed<br>
 ### Api
 api.surferstealer.com/captcha/index?CaptchaID=`Puzzle ID`<br>
 
-### Change-Logs 0.03
+### Change-Logs 0.04
 Fixed Bugs
 
 ### Information
-Solve Time 0-2 Seconds.<br>
+Solve Time 0-5 Seconds.<br>
 if Solve wrong contact on discord.
 
 ### Price Information
 <strong>Free For Now.</strong><br>
-<br>
-<img src="https://cdn.upload.systems/uploads/XjgotENX.gif"  />
 
+<br>
+
+![eg](https://cdn.upload.systems/uploads/V7jBx3UF.gif)
