@@ -1,14 +1,14 @@
 # Growtopia-Captcha-Solver
 
-## Example Usage
-You Need Parse Captcha Id Like This <br>
+## Parse Captcha UID
 
 Varlist
 ```txt
 param 0: onShowCaptcha
 param 1: add_puzzle_captcha|0098/captcha/generated/576f9518-615c-4308-8d04-e6fc0c8fb905-PuzzleWithMissingPiece.rttex|0098/captcha/generated/576f9518-615c-4308-8d04-e6fc0c8fb905-TrimmedPuzzlePiece.rttex|ubistatic-a.akamaihd.net|200118|
 end_dialog|puzzle_captcha_submit||Submit|
-576f9518-615c-4308-8d04-e6fc0c8fb905-PuzzleWithMissingPiece.rttex -> Puzzle ID = 576f9518-615c-4308-8d04-e6fc0c8fb905
+576f9518-615c-4308-8d04-e6fc0c8fb905-PuzzleWithMissingPiece.rttex -> Puzzle UID = 576f9518-615c-4308-8d04-e6fc0c8fb905
+Puzzle UID = 576f9518-615c-4308-8d04-e6fc0c8fb905
 ```
 
 
@@ -46,9 +46,9 @@ Query Params
 | Action | `Solve` | Action Type |
 | Format | `txt` | Response Format, default json |
 | Secret | `xxxxxxxxx` | Your secret code |
-| Puzzle | `07ed133c-ee0e-4fcb-8e76-81dda6aa5333` | Puzzle ID |
+| Puzzle | `07ed133c-ee0e-4fcb-8e76-81dda6aa5333` | Puzzle UID |
 
-```curl "http://api.surferwallet.net/Captcha?Action=Solve&puzzleid=07ed133c-ee0e-4fcb-8e76-81dda6aa5333&secret=xxxxxxxxx" ```
+```curl "http://api.surferwallet.net/Captcha?Action=Solve&Puzzle=07ed133c-ee0e-4fcb-8e76-81dda6aa5333&Secret=xxxxxxxxx" ```
 ### Response
 ```json
 {
