@@ -38,9 +38,10 @@ heysurfer#0101
 
 
 ### Example Request
-Get parameters
+Request Method : GET
 
-| Name | Value | Value |
+Query Params
+| Key | Value | Value |
 |:-----|:-----------:|:-----------|
 | Action | `Solve` | Action Type |
 | Format | `txt` | Response Format, default json |
