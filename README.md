@@ -1,12 +1,16 @@
-# Growtopia-Captcha-Bypass
+# Growtopia-Captcha-Solver
 
-## Example Usage
-You Need Parse Captcha Id Like This <br>
-0098/captcha/generated/`07ed133c-ee0e-4fcb-8e76-81dda6aa5333`-TrimmedPuzzlePiece.rttex -> `07ed133c-ee0e-4fcb-8e76-81dda6aa5333`<br>
-you need use split for parse id
-<a href="https://stackoverflow.com/questions/14265581/parse-split-a-string-in-c-using-string-delimiter-standard-c">Split Exampple For c++</a>
+## Parse Captcha UID
 
-Example Request : api.surferstealer.com/captcha/index?CaptchaID=`07ed133c-ee0e-4fcb-8e76-81dda6aa5333`
+Varlist
+```txt
+param 0: onShowCaptcha
+param 1: add_puzzle_captcha|0098/captcha/generated/576f9518-615c-4308-8d04-e6fc0c8fb905-PuzzleWithMissingPiece.rttex|0098/captcha/generated/576f9518-615c-4308-8d04-e6fc0c8fb905-TrimmedPuzzlePiece.rttex|ubistatic-a.akamaihd.net|200118|
+end_dialog|puzzle_captcha_submit||Submit|
+576f9518-615c-4308-8d04-e6fc0c8fb905-PuzzleWithMissingPiece.rttex -> Puzzle UID = 576f9518-615c-4308-8d04-e6fc0c8fb905
+Puzzle UID = 576f9518-615c-4308-8d04-e6fc0c8fb905
+```
+
 
 
 Example Solver For Enet Proxy
@@ -16,18 +20,55 @@ if Answer Success Its Will Return Answer|Number<br>
 If Answer Fail Its Will Return Answer|Failed<br>
 
 ### Api
-api.surferstealer.com/captcha/index?CaptchaID=`Puzzle ID`<br>
-
-### Change-Logs 0.04
-Fixed Bugs
+api.surferwallet.net
 
 ### Information
 Solve Time 0-5 Seconds.<br>
 if Solve wrong contact on discord.
+heysurfer#0101
 
 ### Price Information
-<strong>Free For Now.</strong><br>
 
-<br>
+<strong>150 World Lock for Per 500 captchas </strong>
 
-![eg](https://cdn.upload.systems/uploads/V7jBx3UF.gif)
+<a href="http://surferwallet.net/SurferShop">Buy</a>
+
+### Rate Limit Information
+3 requests per 10 seconds
+
+
+### Example Request
+Request Method : GET
+
+Query Params
+| Key | Value | Value |
+|:-----|:-----------:|:-----------|
+| Action | `Solve` | Action Type |
+| Format | `txt` | Response Format, default json |
+| Secret | `xxxxxxxxx` | Your secret code |
+| Puzzle | `07ed133c-ee0e-4fcb-8e76-81dda6aa5333` | Puzzle UID |
+
+```curl "http://api.surferwallet.net/Captcha?Action=Solve&Puzzle=07ed133c-ee0e-4fcb-8e76-81dda6aa5333&Secret=xxxxxxxxx" ```
+### Response
+```json
+{
+    "Answer": "Failed",
+    "Success": false
+}
+------------------------
+{
+    "Answer": "0.59375",
+    "Success": true
+}
+```
+Response txt format
+```txt
+Answer|Failed
+------------------------
+Answer|0.59375
+```
+
+### Change-Logs 0.04
+Fixed Bugs
+
+![ezgif-4-5977a6b3ba](https://user-images.githubusercontent.com/58826689/190183715-9171acf1-5ced-4df1-aeeb-b6c9d0f7139e.gif)
