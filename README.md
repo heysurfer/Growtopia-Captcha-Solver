@@ -23,7 +23,7 @@ If Answer Fail Its Will Return Answer|Failed<br>
 api.surferwallet.net
 
 ### Information
-Solve Time 0-5 Seconds.<br>
+Solve Time 1-3 Seconds.<br>
 if Solve wrong contact on discord.
 heysurfer#0101
 
@@ -34,7 +34,7 @@ heysurfer#0101
 <a href="http://surferwallet.net/SurferShop">Buy</a>
 
 ### Rate Limit Information
-3 requests per 10 seconds
+4 requests per 10 seconds
 
 
 ### Example Request
