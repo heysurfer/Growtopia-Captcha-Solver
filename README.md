@@ -34,7 +34,7 @@ heysurfer#0101
 <a href="http://surferwallet.net/SurferShop">Buy</a>
 
 ### Rate Limit Information
-4 requests per 10 seconds
+Disabled for now.
 
 
 ### Example Request
