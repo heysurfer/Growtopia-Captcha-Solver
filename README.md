@@ -34,7 +34,7 @@ heysurfer#0101
 <a href="http://surferwallet.net/SurferShop">Buy</a>
 
 ### Rate Limit Information
-Disabled for now.
+5 requests per 10 seconds
 
 
 ### Example Request
@@ -67,8 +67,5 @@ Answer|Failed
 ------------------------
 Answer|0.59375
 ```
-
-### Change-Logs 0.04
-Fixed Bugs
 
 ![ezgif-4-5977a6b3ba](https://user-images.githubusercontent.com/58826689/190183715-9171acf1-5ced-4df1-aeeb-b6c9d0f7139e.gif)
