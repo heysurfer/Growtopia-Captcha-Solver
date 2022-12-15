@@ -2,6 +2,8 @@
 
 ## Parse Captcha UID
 
+# rate limit has been implemented for the captcha solver currently. You can solve at most a captcha every 10 seconds. 
+
 Varlist
 ```txt
 param 0: onShowCaptcha
