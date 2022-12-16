@@ -2,8 +2,6 @@
 
 ## Parse Captcha UID
 
-# rate limit has been implemented for the captcha solver currently. You can solve at most a captcha every 10 seconds. 
-
 Varlist
 ```txt
 param 0: onShowCaptcha
@@ -25,7 +23,7 @@ If Answer Fail Its Will Return Answer|Failed<br>
 api.surferwallet.net
 
 ### Information
-Solve Time 1-3 Seconds.<br>
+Solve Time 1-2 Seconds.<br>
 if Solve wrong contact on discord.
 heysurfer#0101
 
